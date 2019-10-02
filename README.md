@@ -5,9 +5,10 @@
 This is a curated list of tutorials, projects, libraries, videos, papers, books and anything related to the RAPIDS. Feel free to make a pull request to contribute to this list.
 
 ## Official Repositories
-- [cuDF](https://github.com/rapidsai/cudf)
-- [cuML](https://github.com/rapidsai/cuml)
-- [cuGraph](https://github.com/rapidsai/cugraph)
+- [cuDF, something like Pandas on GPU](https://github.com/rapidsai/cudf)
+- [cuML, something like Scikit-learn on GPU](https://github.com/rapidsai/cuml)
+- [cuGraph, GPU Graph Analytics](https://github.com/rapidsai/cugraph)
+- [BlazingSQL, ETL data directly to GPU](https://github.com/BlazingDB/pyBlazing)
 
 ## Official Guides
 - [Notebooks](https://github.com/rapidsai/notebooks)
