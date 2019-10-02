@@ -15,6 +15,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [Community Notebooks](https://github.com/rapidsai/notebooks-contrib)
 
 ## cuDF
+- [GPU Fractional Differencing to make time series stationary](https://github.com/ritchieng/fractional_differencing_gpu)
+	- [Even faster but less intuitive GPU Fractional Differencing](https://github.com/rapidsai/gQuant/blob/develop/notebooks/07_fractional_differencing.ipynb)
 - [Using NVIDIA RAPIDS to mine Seattle Parking Data](https://github.com/drabastomek/rapids-notebooks)
 
 ## Credits
